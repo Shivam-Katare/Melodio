@@ -1,8 +1,13 @@
-# Melodio - Your Open Source Music App
+# Melodio - Your Open-Source Music App
 
+Melodio is a delightful open-source music app that allows you to curate your music experience. With Melodio, you have the freedom to add your favorite tracks and create a personalized playlist that resonates with your musical tastes
 
+## Live Link
+[Checkout Melodio here](https://melodio.vercel.app/)
 
-Melodio is a delightful open-source music app that allows you to curate your music experience. With Melodio, you have the freedom to add your favorite tracks and create a personalized playlist that resonates with your musical tastes.
+## Preview
+
+https://github.com/Shivam-Katare/Melodio/assets/91705825/98fc0cc2-a171-4f92-a746-54249d5591b2
 
 ## Key Features
 
