@@ -3,7 +3,7 @@
 Melodio is a delightful open-source music app that allows you to curate your music experience. With Melodio, you have the freedom to add your favorite tracks and create a personalized playlist that resonates with your musical tastes
 
 ## Live Link
-
+[Checkout Melodio here](https://melodio.vercel.app/)
 
 ## Preview
 
